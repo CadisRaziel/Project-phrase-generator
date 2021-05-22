@@ -2,15 +2,90 @@
 
 A new Flutter project.
 
-## Getting Started
+US
 
-This project is a starting point for a Flutter application.
+An application that when clicking on the button generates some phrases.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Um aplicativo que ao clicar no botão gera algumas frases.
+
+
+
+App that generates anime phrases =D
+
+Learning:
+
+* Use Stateful class
+
+* Instantiate a class in main ()
+
+* Create a list
+
+* Create a function with setState
+
+* Use of random items
+
+* Using the scaffold
+
+* Use of container
+
+* Using image scaling
+
+* Use of background image with DecorationImage
+
+* Use of SizedBox to spacing widgets
+
+* Using the ElevatedButton (using rounded shape in it)
+
+* Using text formatting
+
+
+
+Special class for images
+
+---------------------------------------------------------
+
+BR
+
+
+
+Um aplicativo que ao clicar no botão gera algumas frases.
+
+
+
+App gerador de frases de anime =D
+
+Aprendizados:
+
+* Usar classe stateful
+
+* Instanciar a classe criada no main() !
+
+* Criar uma list
+
+* criar uma função com setState
+
+* Uso de itens random
+
+* Uso do scaffold
+
+* Uso de container
+
+* Uso de dimensionamento de imagem
+
+* Utilização de imagem de fundo com DecorationImage
+
+* Uso de SizedBox para dar espaçamento entre Widgets
+
+* Uso do ElevatedButton (utilizando forma arredondada nele)
+
+* Utilização da formatação de texto
+
+
+
+classe especial para as imagens
+
+
+
+
